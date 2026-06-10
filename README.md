@@ -19,7 +19,7 @@ Top 5 @ Devcation 2026, IIT Delhi 🏆
 
 ### 🚀 Projects
 
-**[Postly](https://github.com/SWASTIKA567/Posters-application)** — Poster marketplace app. Upload designs, browse catalog, place orders.
+**[Poster Printing App](https://github.com/SWASTIKA567/Posters-application)** — Poster marketplace app. Upload designs, browse catalog, place orders.
 `Flutter · GetX · Firebase · Firestore · FCM`
 
 **[GraphGuard](https://github.com/GraphGuardians/GraphGuardians-app)** — Dependency vulnerability scanner with GitHub OAuth and push alerts.
